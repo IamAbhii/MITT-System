@@ -16,6 +16,7 @@ namespace MITT_System_V1.Migrations
 
         protected override void Seed(MITT_System_V1.Models.ApplicationDbContext context)
         {
+
             //  This method will be called after migrating to the latest version.
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
